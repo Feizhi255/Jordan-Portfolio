@@ -1,0 +1,40 @@
+/* style="max-width: 540px; margin-right: 10px; margin-left: 10px; margin-bottom: 10px;" */
+/* style="background-color: #626060" */
+/*  style="background-color: #626060; */
+/* style="color: white; border-bottom: white solid 2px; margin-bottom: 30px; margin-top: 30px; margin-left: 20px;" */
+/*  style="color: white;" */
+/*  style="height: 55px;" */
+.card {
+    max-width: 540px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.card-body {
+    background-color: #626060;
+}
+
+.container {
+    color: white;
+}
+
+body {
+    background-color: #626060;
+}
+
+.jumbotron {
+    background-color: #626060;
+}
+
+h1 {
+    color: white;
+    border-bottom: white solid 2px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 20px
+}
+
+.navbar {
+    height: 55px;
+}
